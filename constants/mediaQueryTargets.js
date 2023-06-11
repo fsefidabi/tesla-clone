@@ -1,0 +1,4 @@
+export const MEDIA_QUERY_TARGETS = {
+  TABLET: 1200,
+  MOBILE: 600
+}
